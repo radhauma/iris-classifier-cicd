@@ -1,5 +1,5 @@
 # app.py
-#test ci/cd trigger
+# small changes done
 from flask import Flask, request, jsonify
 import joblib
 import numpy as np
